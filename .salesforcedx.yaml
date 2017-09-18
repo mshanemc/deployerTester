@@ -1,6 +1,6 @@
 scratch-org-def: config/project-scratch-def.json # required in your repo
-# assign-permset: true # requires the permset name below
-# permset-name: CustomerID
+assign-permset: true
+permset-name: Dummy_PermSet
 run-apex-tests: false # if true, runs all tests in the org
 delete-scratch-org: false # don't know what this does
 show-scratch-org-url: true # displays the url in the deployer app
